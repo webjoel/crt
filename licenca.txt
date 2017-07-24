@@ -1,0 +1,62 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+    		CRT - Cálculo de Rescisão Trabalhista
+
+        ===== CONTRATO DE LICENÇA DO USUÁRIO DO SOFTWARE =====
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+ 
+Este Contrato de Licença de Usuário é um acordo legal entre V.Sa. 
+(pessoa física ou jurídica) e o desenvolvedor Joel da Rosa, fabricante 
+do equipamento adquirido, seu respectivo SOFTWARE, CRT 1.0. Ao instalar, 
+copiar ou de qualquer outra forma usar o SOFTWARE, V.Sa. está concordando em 
+vincular-se aos termos deste contrato. Caso V. Sa. não esteja de acordo com os 
+termos deste contrato, não instale ou use o SOFTWARE.
+ 
+ 
+LICENÇA DO SOFTWARE
+ 
+Este SOFTWARE é protegido pelas leis de direitos autorais e tratados 
+internacionais relativos a direitos autorais, bem como por outras leis e 
+tratados de propriedade intelectual.
+ 
+ 
+CONCESSÃO DE LICENÇA
+ 
+Esta licença concede a V. Sa. os seguintes direitos:
+ 
+1) V. Sa. poderá instalar e usar uma cópia do SOFTWARE, para o mesmo sistema 
+operacional, em um único computador.
+2) V.Sa. também poderá armazenar ou instalar uma cópia do SOFTWARE em um 
+dispositivo para armazenamento, tal como um servidor de rede, utilizado somente 
+para instalar ou executar o SOFTWARE nos outros computadores de V.Sa. em uma 
+rede interna. Todavia, V.Sa. deverá adquirir uma licença dedicada para cada 
+computador no qual o SOFTWARE seja instalado ou executado a partir do 
+dispositivo de armazenamento. É vedado compartilhar ou utilizar a licença do 
+SOFTWARE simultaneamente em computadores diferentes.
+ 
+ 
+DESCRIÇÃO DE OUTROS DIREITOS E LIMITAÇÕES
+ 
+1)  V.Sa. não poderá revender ou de qualquer outra forma transferir o 
+SOFTWARE por qualquer valor. 
+2)  É vedada a engenharia reversa, descompilação ou decomposição do 
+SOFTWARE, exceto e somente na medida em que esta atividade seja expressamente 
+permitida pela legislação aplicável, inobstante tal limitação.
+3)  O SOFTWARE é licenciado como um produto único. Seus componentes não poderão 
+ser separados para utilização em mais de um computador.
+4)  É vedado o aluguel ou arrendamento do SOFTWARE.
+ 
+ 
+DIREITOS AUTORAIS
+ 
+Todos os títulos e direitos autorais relativos ao SOFTWARE, e quaisquer cópias do 
+SOFTWARE são de propriedade de Joel da Rosa. O SOFTWARE é protegido pelas leis 
+de direitos autorais e tratados internacionais aplicáveis. Assim, V.Sa. deverá 
+tratar o SOFTWARE como qualquer outro material protegido por direito autoral, 
+exceto que V.Sa. poderá instalar o SOFTWARE em um computador individual, desde 
+que V.Sa. mantenha o original unicamente para fins de salvaguarda ou arquivo.
+
+=================================================================
+ 	    www.webjoel.pop.com.br - webjoel@hotmail.com
+=================================================================
